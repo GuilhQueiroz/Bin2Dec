@@ -1,1 +1,3 @@
 # Bin2Dec
+
+Esse foi o projeto onde decidi colocar em prática o que estou aprendendo...
