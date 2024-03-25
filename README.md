@@ -14,6 +14,8 @@ Este é um conversor binário para decimal.
 ## **Prévia**
 
 * Você pode acessar esse site e testa-lo através deste [link]()
+![Animated gif](src/images/Animação.gif)
+
 
 ### Entre em contato comigo: 
 
