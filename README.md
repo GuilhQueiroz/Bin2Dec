@@ -13,7 +13,7 @@ Este é um conversor binário para decimal.
 
 ## **Prévia**
 
-* Você pode acessar esse site e testa-lo através deste [link](https://guilhqueiroz.github.io/Bin2Dec/)
+* Você pode acessar esse site e testa-lo através deste [link](https://guilhqueiroz.github.io/Bin2Dec/index.html)
 ![Animated gif](src/images/Animação.gif)
 
 
