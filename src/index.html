@@ -11,14 +11,29 @@
             <h3>Converte número binário para decimal</h3>
             <p>
                 Binary:
-                <input id="b-input" type="text" onchange="convert()" placeholder="Insira um número binário">
+                <input id="b-input" type="text" onchange="convertBinary()" placeholder="Digite 0 ou 1">
             </p>
             <p>
                 Decimal:
                 <input id="d-input" type="text" >
             </p>
             <p>
-                <input type="button" value="CONVERT" onclick="convert()">
+                <input type="button" value="CONVERT" onclick="convertBinary()">
+            </p>
+        </div>
+        <div class="container">
+            <h1 class="line">Dec2Bin</h1>
+            <h3>Converte número decimal para binário</h3>
+            <p>
+                Decimal:
+                <input id="d-input2" type="text" onchange="convertDecimal()" placeholder="Insira um número decimal">
+            </p>
+            <p>
+                Binary:
+                <input id="b-input2" type="text" >
+            </p>
+            <p>
+                <input type="button" value="CONVERT" onclick="convertDecimal()">
             </p>
         </div>
         <script src="main.js"></script>
